@@ -1,0 +1,4 @@
+id,name,description,address,city,country,latitude,longitude,tags,created_at_utc,updated_at_utc,deleted_at_utc
+01a14ec7-06d2-7516-bfc6-0e5a26c2ea08,"Café ""Zum Löwen"", Kreuzberg","First line
+second line, with ""quotes""",Oranienstraße 1,Berlin,DE,52.499123456,13.4189,"[""coffee"",""кофе""]",2026-10-18T11:30:28.690Z,2026-10-18T11:30:28.690Z,
+01a14ec7-06d3-724e-8368-d69a34959098,Nowhere,,,,,0,-0.5,[],2026-10-18T11:30:28.691Z,2026-10-18T11:30:28.691Z,2026-10-18T11:30:28.691Z
